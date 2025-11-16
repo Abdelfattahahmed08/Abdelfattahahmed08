@@ -21,7 +21,7 @@
 - **Tools:** Jupyter, VS Code, Git, GitHub  
 - **Other Interests:** Data Visualization, Research, AI Ethics
 
----
+---         
 
 ### 🌐 Connect with Me
 - [💼 LinkedIn](https://www.linkedin.com/in/abdelfattah-ahmed-88479a294/)  
