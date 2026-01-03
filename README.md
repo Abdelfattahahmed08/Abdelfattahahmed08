@@ -16,7 +16,7 @@
 - **AI & ML:** TensorFlow, PyTorch, OpenCV  
 - **Tools:** Jupyter, VS Code, Git, GitHub  
 - **Other Interests:** Data Visualization, Research, AI Ethics     
-
+                       
 ### 🌐 Connect with Me
 - [💼 LinkedIn](https://www.linkedin.com/in/abdelfattah-ahmed-88479a294/)  
 - ✉️ Email: [contact.abdlfattahahmed@gmail.com](mailto:contact.abdlfattahahmed@gmail.com)
