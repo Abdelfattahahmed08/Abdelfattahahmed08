@@ -10,7 +10,7 @@
 - 🌱 Currently enhancing my knowledge in **Deep Learning** and **MLOps**.  
 - 💬 Always eager to collaborate on innovative AI or data projects
                                                                                                                               
-### 🛠️ Skills & Tools 
+### 🛠️ Skills & Tools                                      
 - **Programming:** Python, R, SQL               
 - **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **AI & ML:** TensorFlow, PyTorch, OpenCV  
