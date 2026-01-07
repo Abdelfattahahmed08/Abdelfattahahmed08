@@ -9,7 +9,7 @@
 - 📊 Interested in research, analytics, and the intersection between AI and real-world problems.  
 - 🌱 Currently enhancing my knowledge in **Deep Learning** and **MLOps**.  
 - 💬 Always eager to collaborate on innovative AI or data projects
-                                                                                 
+                                                                                                                              
 ### 🛠️ Skills & Tools 
 - **Programming:** Python, R, SQL               
 - **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
