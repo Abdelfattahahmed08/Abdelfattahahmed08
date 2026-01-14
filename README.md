@@ -29,3 +29,42 @@ azq qa  § # 👋 Hi, I'm Abdelfattah Ahmed
 - 🎓 **Microsoft Learn Member**
 
 ⭐️ *“Strive not to be a success, but rather to be of value.” — Albert Einstein*
+
+
+import random
+
+def game():
+    print("=" * 30)
+    print("🎯 لعبة تخمين الرقم 🎯")
+    print("=" * 30)
+
+    secret_number = random.randint(1, 100)
+    attempts = 0
+
+    while True:
+        guess = input("أدخل رقمًا بين 1 و 100 (أو q للخروج): ")
+
+        if guess.lower() == "q":
+            print("❌ خرجت من اللعبة")
+            break
+
+        if not guess.isdigit():
+            print("⚠️ أدخل رقمًا صحيحًا فقط")
+            continue
+
+        guess = int(guess)
+        attempts += 1
+
+        if guess < secret_number:
+            print("⬆️ الرقم أكبر")
+        elif guess > secret_number:
+            print("⬇️ الرقم أصغر")
+        else:
+            print("🎉 مبروك! الرقم صحيح")
+            print(f"عدد المحاولات: {attempts}")
+            break
+
+    print("شكراً للعب ❤️")
+
+game()
+
