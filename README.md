@@ -10,7 +10,7 @@ azq qa  § # 👋 Hi, I'm Abdelfattah Ahmed
 - 🌱 Currently enhancing my knowledge in **Deep Learning** and **MLOps**.  
 - 💬 Always eager to collaborate on innovative AI or data projects                          
                                                        
-### 🛠️ Skills & Tools     
+### 🛠️ Skills & Tools                       
 - ** Python Ai Tools and Numpy ,
 - **Programming:** Python, R, SQL               
 - **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
