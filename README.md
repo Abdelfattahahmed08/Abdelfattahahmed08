@@ -12,7 +12,7 @@ azq qa  § # 👋 Hi, I'm Abdelfattah Ahmed
   
 ### 🛠️ Skills & Tools   
 - ** Python Ai Tools and Numpy ,    
-- **Programming:** Python, R, SQL               
+- **Programming:** Python, R, SQL         
 - **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **AI & ML:** TensorFlow, PyTorch, OpenCV  
 - **Tools:** Jupyter, VS Code, Git, GitHub  
