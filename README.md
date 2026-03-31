@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelfattah Ahmed  
     
-🎓 **Artificial Intelligence Student | Data Scientist**                         
+🎓 **Artificial Intelligence Student | Data Scientist**                           
 💡 Passionate about **Machine Learning**, **AI Development**, and **Problem Solving**      
 🤝 Open to opportunities in **AI**, **Data Science**, and **Software Development**      
 
