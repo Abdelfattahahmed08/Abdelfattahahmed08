@@ -6,7 +6,6 @@
 
 ### 🧠 About Me    
 
-
 - 🎯 Focused on building intelligent systems and data-driven solutions.  
 - 📊 Interested in research, analytics, and the intersection between AI and real-world problems.  
 - 🌱 Currently enhancing my knowledge in **Deep Learning** and **MLOps**.  
