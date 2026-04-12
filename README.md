@@ -13,7 +13,7 @@
 - 💬 Always eager to collaborate on innovative AI or data projects
          
 ### 🛠️ Skills & Tools   
-- ** Python Ai Tools and Numpy ,    
+- ** Python Ai Tools and Numpy , 
 - **Programming:** Python, R, SQL         
 - **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **AI & ML:** TensorFlow, PyTorch, OpenCV  
