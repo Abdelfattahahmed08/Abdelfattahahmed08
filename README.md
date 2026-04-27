@@ -14,7 +14,7 @@
 - ** Python Ai Tools and Numpy ,       
 - **Programming:** Python, R, SQL         
 - **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **AI & ML:** TensorFlow, PyTorch, OpenCV  
+- **AI & ML:** TensorFlow, PyTorch, OpenCV 
 - **Tools:** Jupyter, VS Code, Git, GitHub  
 - **Other Interests:** Data Visualization, Research, AI Ethics     
                        
