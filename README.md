@@ -9,7 +9,7 @@
  * 📊 Interested in AI research, analytics, and solving real-world problems using data.
  * 🌱 Currently learning Deep Learning, MLOps, and advanced Machine Learning techniques.
  * 💬 Always open to collaborating on innovative AI and software projects.
-   
+
 # Skills & Tools     
 ### Programming Languages
  * Python
