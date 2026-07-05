@@ -4,7 +4,7 @@
 💡 Passionate about Machine Learning, AI Development, and Problem Solving
 🤝 Open to opportunities in AI, Data Science, and Software Development  
 
-## 🧠 About Me 
+## 🧠 About Me    
  * 🎯 Focused on building intelligent systems and data-driven solutions.
  * 📊 Interested in AI research, analytics, and solving real-world problems using data.
  * 🌱 Currently learning Deep Learning, MLOps, and advanced Machine Learning techniques.
