@@ -21,7 +21,7 @@
  * Scikit-learn
  * Matplotlib
  * Seaborn
-### AI & Deep Learning
+### AI & Deep Learning                                                                         
  * TensorFlow
  * PyTorch
  * OpenCV
