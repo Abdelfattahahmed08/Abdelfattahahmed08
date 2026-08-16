@@ -12,7 +12,7 @@
 
 # Skills & Tools       
 ### Programming Languages
- * Python
+ * Python   
  * C++    
  * SQL
 ### Data Science & Machine Learning
