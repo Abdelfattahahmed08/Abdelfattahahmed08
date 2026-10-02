@@ -14,7 +14,7 @@
 ### Programming Languages
  * Python                             
  * C++    
- * SQL
+ * SQL                             
 ### Data Science & Machine Learning
  * Pandas
  * NumPy
