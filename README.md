@@ -11,7 +11,7 @@
  *  Always open to collaborating on innovative AI and software projects.
                                                                              
  # Skills & Tools 
-### Programming Languages                             
+### Programming Languages                                                       
  * Python                             
  * C++    
  * SQL                             
