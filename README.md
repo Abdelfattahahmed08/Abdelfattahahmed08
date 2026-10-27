@@ -6,7 +6,7 @@
                                              
  ## About Me                                                                                                           
  *  Focused on building intelligent systems and data-driven solutions.                 
- *  Interested in AI research, analytics, and solving real-world problems using data.
+ *  Interested in AI research, analytics, and solving real-world problems using data.  
  *  Currently learning Deep Learning, MLOps, and advanced Machine Learning techniques.
  *  Always open to collaborating on innovative AI and software projects.
                                                                              
